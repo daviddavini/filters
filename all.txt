@@ -3,7 +3,7 @@
 ! Expires: 3 days
 
 reddit.com##reddit-header-large,flex-left-nav-container,#right-sidebar-container,[slot="commentAvatar"],[slot="commentMeta"],shreddit-comment-action-row,comment-body-header,.shreddit-post-container,[slot="credit-bar"]
-superuser.com,stackexchange.com,stackoverflow.com###left-sidebar,header,#sidebar,.post-signature,.js-post-menu,.post-taglist,#answers-header,#post-form,footer,.bottom-notice,.js-add-link,.votecell,#question-header+div,.aside-cta,.comment-date,.comment-user,.comment-score,#show-editor-button
+askubuntu.com,superuser.com,stackexchange.com,stackoverflow.com###left-sidebar,header,#sidebar,.post-signature,.js-post-menu,.post-taglist,#answers-header,#post-form,footer,.bottom-notice,.js-add-link,.votecell,#question-header+div,.aside-cta,.comment-date,.comment-user,.comment-score,#show-editor-button
 youtube.com###related,#donation-shelf,#chat-container,#comments,#top-row,#bottom-row,#guide-button,#logo,#buttons
 youtube.com##ytd-reel-shelf-renderer,#guide
 wikipedia.org##.vector-header-container,.vector-column-end,.vector-page-toolbar,.vector-body-before-content,#p-lang-btn,.mw-editsection,.mw-footer-container
