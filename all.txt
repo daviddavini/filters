@@ -1,4 +1,4 @@
-! Title: Minimalist Web Browsing Experience
+! Title: Zen Web Browsing Experience
 ! Version: 20250306
 ! Expires: 3 days
 
