@@ -1,5 +1,5 @@
 ! Title: Zen Web Browsing Experience
-! Version: 20250306
+! Version: 20250406
 ! Expires: 3 days
 
 reddit.com##reddit-header-large,flex-left-nav-container,#right-sidebar-container,[slot="commentAvatar"],[slot="commentMeta"],shreddit-comment-action-row,comment-body-header,.shreddit-post-container,[slot="credit-bar"]
